@@ -1,8 +1,8 @@
-# eIoT_API
-API for integration with the eIoT Platform
+# eX_IoT_API
+API for integration with the eX-IoT Platform
 
 ## Authentication
-In order to use the eIoT API you must obtain a set of credentials from the eIoT development team. Currently the only way to do that is to contact us at <eiotsubmission@gmail.com>. API authentication credentials must be provided as part of the query string of your API request.
+In order to use the eX-IoT API you must obtain a set of credentials from the eX-IoT development team. Currently the only way to do that is to contact us at <eiotsubmission@gmail.com>. API authentication credentials must be provided as part of the query string of your API request.
 
 Example: ```X.X.X.X:5000/api/scans?user=[USER]&pass=[PASS]```
 
