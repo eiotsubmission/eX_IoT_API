@@ -76,7 +76,7 @@ Get all scans in Texas (United States) that target port 80:
 ```
 curl -L -g -X GET 'X.X.X.X:5000/api/scans?user=[USER]&pass=[PASS]' \
 -H 'Content-Type: text/plain' \
---data-raw 'label:IoT AND country:"United States" AND state:Texas and port:80'
+--data-raw 'label:IoT AND country:"United States" AND state:Texas AND port:80'
 ```
 
 ## Contact
